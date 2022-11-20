@@ -1,0 +1,12 @@
+# ninja log v5
+0	906	1668956354682427371	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	b02ee1980fc76b74
+0	1103	1668956354878910581	CMakeFiles/test.dir/tests/test.cpp.o	47c42352b1aa81cf
+0	2646	1668956356419540648	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	c5cc9a5b3255f415
+2646	2718	1668956356498761000	lib/libgtest.a	27ef0f54c3e3fef9
+2718	2730	1668956356511685000	lib/libgtest_main.a	1f44f029a2092efa
+2730	2778	1668956356558475306	test	cc5ef74eeee11eec
+3	568	1668956671197842082	CMakeFiles/test.dir/tests/test.cpp.o	47c42352b1aa81cf
+569	629	1668956671260984435	test	cc5ef74eeee11eec
+0	404	1668956676545952566	CMakeFiles/task_1.dir/src/main.cpp.o	f5631ecb7ab66c88
+1	455	1668956676596906529	CMakeFiles/task_1.dir/src/AddressBook/AddressBook.cpp.o	f9381333e371d474
+455	484	1668956676627732808	task_1	60d5cda0302c6043

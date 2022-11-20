@@ -1,0 +1,18 @@
+# ninja log v5
+5	587	1668607016351450761	CMakeFiles/task_1.dir/AddressBook/AddressBook.cpp.o	1dc6ba5c94d442f9
+5	1140	1668607016904120537	googletest/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o	bfd01811f7b5be35
+1	276	1668956317731576082	CMakeFiles/task_1.dir/src/main.cpp.o	2b6f1bf8f2f278f9
+3	485	1668615811333856948	googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	db9b70da26df2d0b
+1335	1348	1668615812199786000	lib/libgtest_main.a	1f44f029a2092efa
+2	321	1668956274726452162	CMakeFiles/task_1.dir/src/AddressBook/AddressBook.cpp.o	a8333994452c2b8f
+276	307	1668956317763197268	task_1	686ad6f64a42be0a
+3	1300	1668615812145956364	googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	c7f4e48796c5137b
+1300	1335	1668615812187110000	lib/libgtest.a	27ef0f54c3e3fef9
+5	789	1668607016553623570	googletest/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o	64be6eb259f55ee0
+4733	4757	1668607020525850000	lib/libgmock.a	41c7b151b4c27a23
+2	648	1668607562653670282	CMakeFiles/task_1.dir/main.cpp.o	6690b16f1a5d6a7e
+6	503	1668956332154592675	CMakeFiles/test.dir/tests/test.cpp.o	e94617feefbfb421
+0	845	1668956351460295563	build.ninja	db25daf29249b7e7
+3	560	1668607562565733614	CMakeFiles/task_1.dir/tests/test.cpp.o	ef9eef72dbbeaf14
+4757	4771	1668607020540294000	lib/libgmock_main.a	1f5e5f0c2e64dc07
+503	545	1668956332199095980	test	6ee2553c078f37da
