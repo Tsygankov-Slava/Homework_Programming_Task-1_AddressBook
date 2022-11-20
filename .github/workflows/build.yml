@@ -16,6 +16,9 @@ jobs:
         with:
           submodules: true
 
+      - name: update submodules
+        run: git submodule update --init --recursive
+
       - name: Configure CMake
         run: cmake -B ${{github.workspace}}/cmake-build-debug -DCMAKE_BUILD_TYPE=${{env.BUILD_TYPE}}
 
