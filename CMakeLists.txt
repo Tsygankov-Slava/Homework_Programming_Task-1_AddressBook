@@ -9,12 +9,12 @@ add_subdirectory(
         "googletest")
 
 #Main target
-add_executable(task_1 src/main.cpp src/AddressBook/Employee/Employee.hpp src/AddressBook/AddressBook.cpp src/AddressBook/AddressBook.hpp)
+add_executable(task_1 src/main.cpp src/AddressBook/Employee/Employee.hpp src/AddressBook/AddressBook.cpp src/AddressBook/AddressBook.hpp src/AddressBook/Employee/Employee.cpp)
 
 #Test target
 add_executable(
         test
-        tests/test.cpp)
+        tests/tests.cpp src/AddressBook/Employee/Employee.hpp src/AddressBook/AddressBook.cpp src/AddressBook/AddressBook.hpp src/AddressBook/Employee/Employee.cpp)
 
 #Add src to the include directories for the test target
 target_include_directories(
